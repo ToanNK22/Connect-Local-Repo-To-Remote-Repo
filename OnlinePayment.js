@@ -1,0 +1,1 @@
+let message = "Our project offers customer to take online payment through Vnpay";
