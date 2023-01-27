@@ -1,0 +1,1 @@
+let message = "Food is good !";
